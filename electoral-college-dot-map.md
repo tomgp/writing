@@ -24,6 +24,8 @@ My colleague Martin Stabe has written in depth about the reasoning behind this m
 
 The live version of the map was published on the [FT's election results page](https://ig.ft.com/us-elections/results)
 
+![a screen grab of the map on the Financial Times results page](/writing/images/ec-dot-map.png)
+
 --
 
 originally published at http://www.toffeemilkshake.co.uk/electoral-college-clusters/
