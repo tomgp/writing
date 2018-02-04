@@ -1,4 +1,7 @@
-# Electoral college dot map
+---
+title: Electoral college dot map
+layout: post
+---
 
 ![a  map showing the result of the electoral college vote in the 2012 us election](http://www.toffeemilkshake.co.uk/electoral-college-clusters/2012-results-dot-map-logo.png)
 
